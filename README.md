@@ -1,10 +1,4 @@
-Hi <br>
-Im Emmanuel Alo <br>
-.NET Developer<br>
-Still Learning <br>
-Hoping to get better by day <br>
 
-AI + Game dev = ? <br>
 
 
 <!---
